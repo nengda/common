@@ -1,0 +1,11 @@
+# ~/.screenrc
+# use visual bell
+vbell off 
+# replace ctrl-A by ctrl-A
+escape ``
+# set a big scrolling buffer
+defscrollback 5000
+# Set the caption on the bottom line
+caption always
+caption string '%{= wk}[ %{k}%H %{k}][%= %{= wk}%?%-Lw%?%{r}(%{r}%n*%f%t%?(%u)%?%{r})%{k}%?%+Lw%?%?%= %{k}][%{b} %d/%m %{k}%c %{k}]' # good looking window bar  
+
