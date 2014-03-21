@@ -20,6 +20,7 @@ export SAST_RESELLER_HOME=/home/nengda/sast_reseller/trunk
 export SVN_EDITOR=/home/y/bin/vim
 export LC_ALL='C'
 export LANG='zh_CN.utf8'
+export DTS_CVS=/home/nengda/dts/trunk
 export FLEX_HOME=$HOME/flex
 
 export ANT_HOME="/home/y/libexec/ant"
